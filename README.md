@@ -15,7 +15,7 @@ as well as from a submission to the ABZ 2014 landing gear case study by Hansen e
 
 ### Run Benchmarks
 
-The benchmarks can be run on Linux by executing `./probcli -fmics21_benchmarks`.
+The benchmarks can be run on Linux by unpacking the archive containing the benchmarks (`./benchmarks/`) and executing `./probcli -fmics21_benchmarks`.
 
 For each benchmark, a text file presenting the runtimes of all solvers will be created in the root directory.
 
